@@ -1,5 +1,7 @@
 EMAD 
-
+.
+.
+.
 Programando em python.
 Antes d e listar meu projeto, quero conversar, sobre o tema.
 Um tema logo extenso e cansativo retomar, iniciar. Colidir com o estudo a pretica a técnicas.
